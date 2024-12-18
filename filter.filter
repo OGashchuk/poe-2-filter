@@ -1,0 +1,9 @@
+Show 
+	Class == "Crossbows"
+	BaseType == "Expert Sturdy Crossbow" "Expert Varnished Crossbow" "Expert Tense Crossbow" "Expert Dyad Crossbow" "Expert Bombard Crossbow" "Expert Forlorn Crossbow"
+	SetFontSize 45
+	SetTextColor 100 163 100 255
+	SetBorderColor 56 133 54 255
+	SetBackgroundColor 20 20 20 200
+	PlayEffect Red
+	MinimapIcon 0 Green Diamond
